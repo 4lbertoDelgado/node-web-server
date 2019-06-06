@@ -116,6 +116,12 @@ Vamos a tener un control remoto (Local heroku) ---> que apunta a nuestro reposit
 
 git push heroku
 Confirmamos nuestros cambios en repositorio github heroku
+Heroku nos mostrara unos log donde nos hara aber como nuestra aplicacion se esta desplegando
+Al final nos muestra la URL de la aplicacion desplegada (la mpodemos abrir en el navegador)
 
+herolu open
+o podemos ejecutar open para que lo abra en el navegador por defecto
+
+Ai tuvieramos un dominio comprado, tendriamos que redireccionar nuestros dns a esta url que nos da heroku
 
 */
